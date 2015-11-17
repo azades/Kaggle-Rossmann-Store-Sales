@@ -2,10 +2,10 @@ You are provided with historical sales data for 1,115 Rossmann stores. The task 
 
 ##Files
 
-*train.csv - historical data including Sales
-*test.csv - historical data excluding Sales
-*sample_submission.csv - a sample submission file in the correct format
-*store.csv - supplemental information about the stores
+* train.csv - historical data including Sales
+* test.csv - historical data excluding Sales
+* sample_submission.csv - a sample submission file in the correct format
+* store.csv - supplemental information about the stores
 
 ##Data fields
 
