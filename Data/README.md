@@ -11,7 +11,7 @@ You are provided with historical sales data for 1,115 Rossmann stores. The task 
 
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
-* ''' Id ''' - an Id that represents a (Store, Date) duple within the test set
+* Id - an Id that represents a (Store, Date) duple within the test set
 * Store - a unique Id for each store
 * Sales - the turnover for any given day (this is what you are predicting)
 * Customers - the number of customers on a given day
