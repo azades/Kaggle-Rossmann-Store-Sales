@@ -1,12 +1,13 @@
 You are provided with historical sales data for 1,115 Rossmann stores. The task is to forecast the "Sales" column for the test set. Note that some stores in the dataset were temporarily closed for refurbishment.
 
-Files
+##Files
 
-train.csv - historical data including Sales
-test.csv - historical data excluding Sales
-sample_submission.csv - a sample submission file in the correct format
-store.csv - supplemental information about the stores
-Data fields
+*train.csv - historical data including Sales
+*test.csv - historical data excluding Sales
+*sample_submission.csv - a sample submission file in the correct format
+*store.csv - supplemental information about the stores
+
+##Data fields
 
 Most of the fields are self-explanatory. The following are descriptions for those that aren't.
 
